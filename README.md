@@ -10,9 +10,6 @@ This project is aimed at predicting the genre of a song based on its features us
   - [Description](#description)
   - [Project Steps](#project-steps)
   - [Getting Started](#getting-started)
-    - [Prerequisites](#prerequisites)
-    - [Installation](#installation)
-  - [Usage](#usage)
   - [Productionalizing the Model](#productionalizing-the-model)
 
 
@@ -38,17 +35,19 @@ The project involves several key steps:
 
 Before you start, make sure you have the following prerequisites in place:
 
-- [List any dependencies, libraries, or software required for your project.]
+- python >= 3.6
+- numpy
+- pandas
+- matplotlib
+- heroku
+- seaborn
+- sklearn
 
 ### Installation
 
 To get the project up and running, follow these installation steps:
 
-1. [Provide installation instructions here, including any code snippets if necessary.]
-
-## Usage
-
-Explain how to use the project to predict the genre of a song. Provide code examples or screenshots if helpful.
+Use pip install for the installation
 
 ## Productionalizing the Model
 
